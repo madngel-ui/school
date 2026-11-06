@@ -1,0 +1,6 @@
+<resources>
+    <color name="board_background">#101418</color>
+    <color name="snake_head">#8BC34A</color>
+    <color name="snake_body">#4CAF50</color>
+    <color name="food_color">#FF5252</color>
+</resources>
